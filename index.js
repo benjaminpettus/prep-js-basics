@@ -22,7 +22,7 @@
 **/
 var favorite_number = 3;
 var current_year = 2015;
-var that_one_prince_song = "Purple Rain";
+var that_one_prince_song = 1999;
 
 
 /**
@@ -99,6 +99,7 @@ var evenNumbers = [2,4,6,8,10,20,26,40,100,240];
 *
 * store the return value to a variable and use console.log to inspect the value which was passed back by your function
 **/
+
 
 
 
