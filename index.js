@@ -7,7 +7,10 @@
 * declare variables named `first_name`, `last_name`, and `birth_place`.
 * Fill out the values for these with your own data or make it up. It should contain a String
 **/
-
+ 
+ var first_name = "Benjamin";
+ var last_name = "Pettus";
+ var birth_place = "Detroit";
 
 
 /**
@@ -17,7 +20,9 @@
 * declare variables named `favorite_number`, `current_year`, and `that_one_prince_song`.
 * Their values should be a Number
 **/
-
+var favorite_number = 3;
+var current_year = 2015;
+var that_one_prince_song = "Purple Rain";
 
 
 /**
@@ -27,6 +32,10 @@
 * declare variables named `isDaytime`, `isLeftHanded`, `inHawaii`, and `isHappyCoding`
 * Their values should be a Boolean
 **/
+var isDaytime = false;
+var isLeftHanded = false;
+var inHawaii = true;
+var isHappyCoding = true;
 
 
 
@@ -37,7 +46,8 @@
 * declare variables named `enrolledAtDevLeague` and `completedFridayPrep`
 * Their values should be a Null value
 **/
-
+var enrolledAtDevLeague = null;
+var completedFridayPrep = null;
 
 /**
 * #5a
@@ -47,6 +57,7 @@
 * which can be found along the west coast of The United States.
 **/
 
+var west_coast = ["Washington", "Oregon", "California"];
 
 
 /**
@@ -56,7 +67,7 @@
 * declare a variable named `even numbers` which is an Array. This Array contains numbers that
 * are considered 'even values'. Have at least ten even values in this array
 **/
-
+var evenNumbers = [2,4,6,8,10,20,26,40,100,240];
 
 
 /**
